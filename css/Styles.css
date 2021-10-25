@@ -19,3 +19,8 @@ body {
 {
     font-size: 40px;
 }
+
+#container p
+{
+    font-family: 'Courier New', Courier, monospace;
+}
