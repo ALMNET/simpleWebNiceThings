@@ -9,9 +9,9 @@ body {
 #container
 {
     width: 70%;
-    padding: 1em;
+    padding: 0em;
     text-align: center;
-    border: 4px solid green;
+    border: 2px solid black;
     margin: 0 auto;
 }
 
@@ -24,3 +24,23 @@ body {
 {
     font-family: 'Courier New', Courier, monospace;
 }
+#cabecera
+{
+    background-color: #33A;
+    box-shadow: 0px 5px 30px 0px rgba(0,0,0,0.74);
+    color: white;
+    margin: 0;
+    padding: 0.5cm;
+    font-size: 30px;
+    text-align: left;
+    font-weight: bold;
+}
+
+#cabecera #Extra
+{
+    padding: 0 0 0 0.5cm;
+    font-weight: normal;
+    font-size: 0.6cm;
+
+}
+
